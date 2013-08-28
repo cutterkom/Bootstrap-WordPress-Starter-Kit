@@ -1,0 +1,10 @@
+/*
+Theme Name: Mein erstes Theme mit Bootstrap
+Theme URI: http://www.deinedomain.de
+Description: Mein erstes Theme mit Bootstrap, nach einem Tutorial bei Elmastudio.de
+Author URI: http://www.deinedomain.de
+Version: 1.0
+*/
+@import url('bootstrap/css/bootstrap.css'); 
+
+body {margin-top: 70px;}
